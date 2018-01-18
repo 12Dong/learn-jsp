@@ -15,7 +15,8 @@
         double r = 10.0,s;
         s = 3.14*r*r;
         out.println(s);
-        out.print("Test output");
+        out.println("Test output");
     %>
+    <%=3.14*r*r%>
 </body>
 </html>
