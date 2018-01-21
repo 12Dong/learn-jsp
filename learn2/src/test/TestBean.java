@@ -1,14 +1,14 @@
 package test;
 
 public class TestBean {
-    private String str = null;
+    private String stringValue = null;
     public TestBean(){
 
     }
-    public void setString(String str){
-        this.str = str;
+    public void setStringValue(String str){
+        this.stringValue = str;
     }
     public String getStringValue(){
-        return str;
+        return stringValue;
     }
 }

@@ -1,4 +1,4 @@
-<%@ page import="java.sql.*" %><%--
+<%@ page import="java.sql.*,org.easybooks.test.model.vo.UserTable" %><%--
   Created by IntelliJ IDEA.
   User: FX50J
   Date: 2018/1/17

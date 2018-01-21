@@ -11,7 +11,7 @@
     <title>╪РрваТят╟Е</title>
 </head>
 <body>
-    <form action="validate.jsp" method="post">
+    <form action="newvalidate.jsp" method="post">
         <table>
         <caption>сц╩╖╣гб╫</caption>
         <tr>
